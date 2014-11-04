@@ -25,6 +25,10 @@ Requirements
 * node.js
 * `make`
 
+Downloading
+-----------
+The `narcissus` folder is a git submodule. Please use `git clone --recursive` to properly fetch all the code.
+
 Building
 --------
 To install:
